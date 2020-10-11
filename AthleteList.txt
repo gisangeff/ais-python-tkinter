@@ -1,0 +1,5 @@
+1#Alvin Samontina#27#03-21-92#Male#BSCS#4th Year#Basketball#
+2#Gisan Geff Raniego#19#01-18-00#Male#BSIT#2nd Year#Volleyball#
+3#Carlos Echavez#22#01-22-97#Female#BSIT#3rd Year#Sepak Takraw#
+4#Gisan Dan Raniego#24#03-21-95#Male#BSIT#2nd Year#Basketball#
+5#Gisan Mae Raniego#27#08-13-92#Female#BSIS#2nd Year#Badminton#
